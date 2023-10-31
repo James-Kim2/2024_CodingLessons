@@ -9,6 +9,20 @@
       "name": "Launch HelloWithName",
       "request": "launch",
       "mainClass": "main.java.hello.HelloWithName",
+      "projectName": "2024_CodingLessons"
+    },
+    {
+      "type": "java",
+      "name": "Launch HelloWorld",
+      "request": "launch",
+      "mainClass": "main.java.hello.HelloWorld",
+      "projectName": "2024_CodingLessons"
+    },
+    {
+      "type": "java",
+      "name": "Launch HelloWithName",
+      "request": "launch",
+      "mainClass": "main.java.hello.HelloWithName",
       "projectName": "2024_CodingLessons_86e378f1"
     },
     {

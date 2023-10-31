@@ -4,16 +4,25 @@ import java.util.Scanner;
 
 public class HelloWithName {
 
-    static Scanner scanner = new Scanner(System.in);
+    static Scanner scanner  = new Scanner(System.in);
+    static Scanner scanner2 = new Scanner(System.in);
 
-    public static void main(String[] varArgs) {
+    public static void main(String arArgs,@n.java.hello.HelloWithName. main (String));
+
+
+    public static void alternitive(String[] arArgs)
+
+    {
 
         System.out.println("What is your name?");
 
-        String name = scanner.nextLine();
+        String james = scanner.nextLine();
 
-        System.out.println("Hello " + name);
+        String luke  = scanner2.nextLine();
+
+        System.out.println("Hello" + luke);
+
+        System.out.println("Hello" + james);
 
     }
-
 }
